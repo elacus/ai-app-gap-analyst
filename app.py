@@ -8,7 +8,7 @@ from google.genai import errors
 GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
 
 # Aktuell verfügbares Flash-Modell
-MODEL = "gemini-3.5-flash"
+MODEL = "gemini-3.8-flash"
 
 # Nutzungslimit für den Beta-Test
 MAX_REQUESTS_PER_SESSION = 5
