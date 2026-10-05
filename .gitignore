@@ -1,3 +1,9 @@
+# Virtuelle Umgebung
 .venv/
-.env
+
+# Lokale Secrets
+.streamlit/secrets.toml
+
+# Python-Cache
 __pycache__/
+*.py[cod]
